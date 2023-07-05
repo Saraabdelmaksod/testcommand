@@ -24,5 +24,10 @@ public class Test2 {
         System.out.println("test case one printed successfully ");
     }
 
+    @Test
+    public void testCase2(){
+        System.out.println("test case two printed successfully ");
+    }
+
 
 }
